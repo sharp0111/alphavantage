@@ -198,9 +198,3 @@ alpha.performance.sector();
 All contributions are welcome! The purpose of this library is to keep function parity with the Alpha Vantage API, while keeping a slim and intuitive programming interface. Before any pull requests are made, please run `npm run lint` to fix style issues and ensure that all test are passing `npm test`. The codebase should always remain at 100% test coverage.
 
 The build script, `npm run build`, can be used to rebuild the UMD module `dist/bundle.js` and it should be updated with each pull request.
-
-## Contact
-
-- Author: Zack Urben
-- Twitter: https://twitter.com/zackurben (better)
-- Contact: zackurben@gmail.com
