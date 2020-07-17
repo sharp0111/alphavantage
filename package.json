@@ -18,7 +18,6 @@
     "stock market",
     "api"
   ],
-  "author": "Zack Urben <zackurben@gmail.com> (http://zackurben.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zackurben/alphavantage"
