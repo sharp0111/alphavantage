@@ -4,9 +4,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/zackurben/alphavantage/badge.svg?branch=master)](https://coveralls.io/github/zackurben/alphavantage?branch=master)
 [![Greenkeeper badge](https://badges.greenkeeper.io/zackurben/alphavantage.svg)](https://greenkeeper.io/)
 
-This is a fork of the [Alpha Vantage API](https://www.alphavantage.co/documentation/).
+This is a fork of the [AlphaVantage](https://github.com/zackurben/alphavantage).
 
-[Alpha Vantage API](https://www.alphavantage.co/documentation/) is a simple wrapper around the [Alpha Vantage API](https://www.alphavantage.co/documentation/) hosted on [NPM](https://www.npmjs.com/package/alphavantage). I have no affiliation with AlphaVantage. This library can be used in the browser or in node since it is packaged as a UMD module.
+[AlphaVantage](https://github.com/zackurben/alphavantage) is a simple wrapper around the [Alpha Vantage API](https://www.alphavantage.co/documentation/) hosted on [NPM](https://www.npmjs.com/package/alphavantage). I have no affiliation with AlphaVantage. This library can be used in the browser or in node since it is packaged as a UMD module.
 
 All contributions are welcome! This is an open source project under the MIT license, see [LICENSE.md](LICENSE.md) for additional information.
 
