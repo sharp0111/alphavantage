@@ -1,6 +1,6 @@
 {
   "name": "alphavantage-next",
-  "version": "2.0.1",
+  "version": "0.0.1",
   "description": "A simple interface to the Alpha Vantage API.",
   "main": "dist/bundle.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "homepage": "git@github.com:sharp0111/alphavantage-next.git",
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=12.18.3"
   },
   "dependencies": {
     "cross-fetch": "^3.0.4"
