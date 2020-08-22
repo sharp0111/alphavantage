@@ -20,9 +20,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sharp0111/alphavantage.git"
+    "url": "git@github.com:sharp0111/alphavantage-next.git"
   },
-  "homepage": "https://github.com/sharp0111/alphavantage.git",
+  "homepage": "git@github.com:sharp0111/alphavantage-next.git",
   "engines": {
     "node": ">=6.0.0"
   },
