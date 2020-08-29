@@ -188,3 +188,5 @@ $RECYCLE.BIN/
 
 # Build Directory
 dist
+
+package-lock.json
