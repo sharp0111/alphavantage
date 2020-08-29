@@ -1,7 +1,7 @@
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? module.exports = factory(require('cross-fetch')) :
   typeof define === 'function' && define.amd ? define(['cross-fetch'], factory) :
-  (global = global || self, global.alphavantage = factory(global.fetch));
+  (global = global || self, global['alphavantage-next'] = factory(global.fetch));
 }(this, (function (fetch) { 'use strict';
 
   fetch = fetch && fetch.hasOwnProperty('default') ? fetch['default'] : fetch;
